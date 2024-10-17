@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "6f8eafbd-f9ff-4d82-9c33-c2a9ad0138cd",
+      "product": "Pants",
+      "price": 509
+    },
+    {
+      "id": "f212ebe8-0273-4938-855a-0614dc751f9b",
+      "product": "Ball",
+      "price": 91
+    },
+    {
+      "id": "35a3d485-0a33-434f-a338-ba571e7f2c1e",
+      "product": "Pizza",
+      "price": 555
+    },
+    {
+      "id": "e44f3e90-51bc-4838-aaf4-8cfb17ef8758",
+      "product": "Chips",
+      "price": 416
+    },
+    {
+      "product": "HDMI Cable",
+      "price": 12,
+      "id": "cOvi1Jn"
+    },
+    {
+      "product": "Sriracha Sauce",
+      "price": 23,
+      "id": "uyu0Cxr"
+    }
+  ]
+}
